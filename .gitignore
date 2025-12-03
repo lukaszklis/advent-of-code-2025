@@ -1,0 +1,22 @@
+# Dependencies
+node_modules
+.pnpm-store
+
+# Logs
+*.log
+pnpm-debug.log*
+
+# IDE
+.vscode/*
+!.vscode/settings.json
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Input files
+**/input*.txt
+
+# Expectation files
+**/expectation*.txt
