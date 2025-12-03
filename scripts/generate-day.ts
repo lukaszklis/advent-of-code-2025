@@ -18,11 +18,11 @@ const day = dayNumber.padStart(2, '0')
 const dayFolder = `day${day}`
 const srcDayPath = join(rootDir, 'src', dayFolder)
 
-const solutionTemplate = `export function part1(input: string): string {
+const solutionTemplate = `export const part1 = (input: string): string => {
   throw new Error('Not implemented')
 }
 
-export function part2(input: string): string {
+export const part2 = (input: string): string => {
   throw new Error('Not implemented')
 }
 `
