@@ -3,5 +3,5 @@
   "version": "0.2",
   "language": "en,pl",
   "ignorePaths": ["node_modules", "dist", "coverage", "*.log"],
-  "words": ["Oxlint"]
+  "words": ["joltage", "joltages", "Oxlint"]
 }
