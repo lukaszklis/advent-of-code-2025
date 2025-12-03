@@ -2,15 +2,6 @@
   "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
   "version": "0.2",
   "language": "en,pl",
-  "ignorePaths": [
-    "node_modules",
-    "dist",
-    "coverage",
-    "*.log"
-  ],
-  "words": [
-    "joltage",
-    "joltages",
-    "Oxlint"
-  ]
+  "ignorePaths": ["node_modules", "dist", "coverage", "*.log"],
+  "words": ["joltage", "joltages", "Oxlint"]
 }
